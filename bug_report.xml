@@ -1,1 +1,9 @@
+<xml>
+<Preconditions>Go to the https://ostrov_shop.by</Preconditions>
+  <Steps>
+    <Step_1>Click on the 'Войти' button</Step_1>
+    <Step_2>Click on the 'Регистрация' button</Step_2>
+    <Step_3>Fill in all required fields</Step_3>
+  </Steps>
+<Actual_result>Required fields not marked</Actual_result>
 
